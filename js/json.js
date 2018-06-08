@@ -11,3 +11,5 @@ function getJson() {
     xhttp.open("GET", dataFile, true);
     xhttp.send();
 }
+
+getJson();
